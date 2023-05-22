@@ -1,7 +1,7 @@
 ## Support / Contact
 
 
-If you have any other questions about an app, please contact:
+If you have any other questions about an *iCompressMe* app, please contact:
 
 contactusiosapp@gmail.com or post your quesitons and any issue on https://github.com/SmartiOSDev/iCompressMe/issues
 (Please be patient while waiting for a reply as this is only a 1 man company and some answers to rare problems may require intense research)

@@ -1,4 +1,4 @@
-**Support / Contact**
+##Support / Contact
 
 
 If you have any other questions about an app, please contact:
